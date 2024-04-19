@@ -1,0 +1,132 @@
+#navbar {
+    font-size: 1rem;
+    flex-direction: column;
+}
+
+#navmid ul {
+    /* border: 2px solid red; */
+    width: 320px;
+    justify-content: center;
+}
+
+#navmid ul li {
+    font-size: 0.8rem;
+    margin: 7.2px;
+}
+
+#navmid ul li a {
+    padding: 0px;
+    margin: 0px;
+}
+
+#logo {
+    width: 177px;
+}
+
+#logo img {
+    height: 40px;
+}
+
+#logo h4 {
+    position: relative;
+    left: 0px;
+}
+
+#Home {
+    position: relative;
+    top: 80px;
+    /* font-size: 2rem; */
+    margin-top: 0px;
+}
+
+.h-primary {
+    font-size: 1.6rem;
+    margin-top: 0px;
+    width: 320px;
+    text-align: center;
+}
+
+#Home p {
+    font-size: 1.54rem;
+    width: 300px;
+    position: relative;
+    top: 26px;
+}
+
+.for-background-only {
+    height: 600px;
+}
+
+.btn {
+    font-size: 1rem;
+    padding: 14px;
+    position: relative;
+    top: 60px;
+}
+
+.services-contanner h1 {
+    font-size: 1.8rem;
+}
+
+.iteams-review {
+    flex-wrap: wrap;
+}
+
+.review h1 {
+    font-size: 1.8rem;
+}
+
+.client {
+    font-size: 1.8rem;
+    margin: 14px;
+}
+
+.before-footer {
+    font: size 0.5rem;
+}
+
+#notes {
+    width: 200px;
+}
+
+#notes h3 {
+    font-size: 1rem;
+    margin: 0px;
+}
+
+#notes p {
+    font-size: 1rem;
+}
+
+.social-media {
+    margin: 0px;
+}
+
+.social-media img {
+    height: 50px;
+}
+
+.forms {
+    padding: 10px;
+    margin: 10px;
+}
+
+.forms input {
+    font-size: 1rem;
+}
+
+
+#submit {
+    font-size: 1rem;
+    margin-top: 0px;
+}
+
+#reset {
+    font-size: 1rem;
+    margin-top: 0px;
+}
+
+.footer {
+    font-size: 1rem;
+    height: 50px;
+}
